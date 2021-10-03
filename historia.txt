@@ -3,4 +3,4 @@ Esta es la historia de Dario islas
 Dario tiene 22 años y nació en México,
 viviendo en el momento
 
-hoy practicaremos git mientras aprendemos de el
+hoy hablaremos de su vida
